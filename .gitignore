@@ -1,0 +1,7 @@
+__pycache__/
+
+*.weights
+
+output*
+tf_dir*
+checkpoints*
