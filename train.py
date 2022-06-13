@@ -73,7 +73,7 @@ def run():
     iou_thres = 0.5
     conf_thres = 0.1
     nms_thres = 0.5
-    logdir = "tf_dir"
+    logdir = "logs"
     seed = -1
 
     if seed != -1:

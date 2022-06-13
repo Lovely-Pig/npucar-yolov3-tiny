@@ -2,6 +2,6 @@ __pycache__/
 
 *.weights
 
+logs*
 output*
-tf_dir*
 checkpoints*
